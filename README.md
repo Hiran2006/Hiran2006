@@ -14,6 +14,5 @@
 <h2>I currently Learning</h2>
 <tag>From College</tag>
 <img src="https://skillicons.dev/icons?i=c,java">
-
 <tag>By Personal</tag>
 <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter">
