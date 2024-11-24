@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bokor&family=Parkinsans:wght@300..800&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,6 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 2cm 0;
 }
 .resume{
     width: 80%;
@@ -43,4 +44,18 @@ body{
 .main .short .tag .seaparator{
     font-size: 20px;
     margin: 0 5px;
+}
+.content{
+    font-family: "Bokor", system-ui;
+    display: flex;
+    flex-wrap: wrap;
+    color: #595959;
+}
+.content div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
 }
