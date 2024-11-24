@@ -6,7 +6,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(100, 100, 252);
+    background-color: #687EFF1f;
     color: white;
     text-transform: uppercase;
 }
@@ -27,23 +27,22 @@ header nav a{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1cm 0;
+    height: 10cm;
 }
 .con-welcome img{
     width: 5cm;
     height: 5cm;
-    border: 2px solid rgb(208, 135, 0);
     border-radius: 5cm;
-    background-color: rgb(231, 189, 111);
+    background-color: rgba(18, 183, 220, 0.2);
     transition: .8s linear;
 }
 .con-welcome img:hover{
-    border: 2px solid greenyellow;
-    box-shadow: 2px 2px 5px green;
-    background-color: yellow;
+    box-shadow: 2px 2px 5px #98E4FF;
+    background-color: #687EFFaa;
 }
 .quate{
     width: 15cm;
+    color: #b8b8b8;
 }
 .quate h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -55,4 +54,11 @@ header nav a{
     padding: 10px;
     font-family: sans-serif;
     font-size: 20px;
+}
+.wall{
+    
+    background-image: url("./wallpapper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30% 20%;
 }

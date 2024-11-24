@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resume{
+    width: 80%;
+}
+.main{
+    display: flex;
+    text-align: center;
+    font-family: "Parkinsans";
+}
+.main img{
+    width: 20%;
+    aspect-ratio: 1/1.2;
+}
+.main .short{
+    width: 80%;
+    background-color: #32c1e4;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #595757;
+}
+.main .short h2{
+    font-size: 50px;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    color: white;
+}
+.main .short .tag{
+    display: flex;
+    align-items: center;
+}
+.main .short .tag .seaparator{
+    font-size: 20px;
+    margin: 0 5px;
+}
