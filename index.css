@@ -57,7 +57,7 @@ header nav a{
 }
 .wall{
     
-    background-image: url("https://github.com/Hiran2006/Hiran2006/wallpapper.png");
+    background-image: url("./wallpapper.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 30% 20%;
