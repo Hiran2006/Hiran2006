@@ -1,5 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: rgb(100, 100, 252);
+    color: white;
+    text-transform: uppercase;
+}
+header h2{
+    padding: 20px 40px;
+    letter-spacing: 3px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+header nav a{
+    color: white;
+    margin-right: 70px;
+    text-decoration: none;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+}
+.con-welcome{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1cm 0;
+}
+.con-welcome img{
+    width: 5cm;
+    height: 5cm;
+    border: 2px solid rgb(208, 135, 0);
+    border-radius: 5cm;
+    background-color: rgb(231, 189, 111);
+    transition: .8s linear;
+}
+.con-welcome img:hover{
+    border: 2px solid greenyellow;
+    box-shadow: 2px 2px 5px green;
+    background-color: yellow;
+}
+.quate{
+    width: 15cm;
+}
+.quate h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.quate p{
+    margin-top: 12px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
 }
