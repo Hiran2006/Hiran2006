@@ -62,3 +62,10 @@ header nav a{
     background-size: cover;
     background-position: 30% 20%;
 }
+.description{
+    background:linear-gradient(to bottom,rgb(29, 29, 70),rgb(46, 132, 225));
+}
+.description > div{
+    display: flex;
+    width: 50%;
+}
