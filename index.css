@@ -64,8 +64,8 @@ header nav a{
 }
 .description{
     background:linear-gradient(to bottom,rgb(29, 29, 70),rgb(46, 132, 225));
+    color: white;
 }
 .description > div{
-    display: flex;
     width: 50%;
 }
