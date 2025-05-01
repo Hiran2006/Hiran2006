@@ -6,7 +6,7 @@
 <h3>Modeling Softwares<h3>
 <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator">
 <h3>Programing Languages<h3>
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,py">
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,py,typescript">
 <h3>Databases<h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb">
 <h3>Frame Works and Libraryes<h3>
