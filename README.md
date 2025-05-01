@@ -11,8 +11,3 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb">
 <h3>Frame Works and Libraryes<h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,angular">
-<h2>I currently Learning</h2>
-<tag>From College</tag>
-<img src="https://skillicons.dev/icons?i=c,java">
-<tag>By Personal</tag>
-<img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter">
