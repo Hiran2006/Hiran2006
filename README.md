@@ -4,10 +4,10 @@
 <h3>Game Engines</h3>
 <img src="https://skillicons.dev/icons?i=unity,unreal">
 <h3>Modeling Softwares<h3>
-<img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,sketchup">
+<img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator">
 <h3>Programing Languages<h3>
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,py,bash">
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,py">
 <h3>Databases<h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb">
 <h3>Frame Works and Libraryes<h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,angular">
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs">
