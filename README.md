@@ -1,15 +1,15 @@
 # Hi there, I am Hiran
-"I am a passionate explorer in this rapidly evolving field, always eager to keep discovering and learning."
-<h2>What I Learned<font size="5"> ?</font></h2>
-<h3>Game Engines</h3>
-<img src="https://skillicons.dev/icons?i=unity,unreal">
-<h3>Modeling Softwares<h3>
-<img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator">
-<h3>Programing Languages<h3>
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,py,typescript">
-<h3>Databases<h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb">
-<h3>Frame Works and Libraryes<h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs">
+I am a passionate explorer in this rapidly evolving field, always eager to keep discovering and learning.
+## What I've Learnt So Far
+### Game Engines
+![](https://skillicons.dev/icons?i=unity,unreal)
+### Creative Software<h3>
+![](https://skillicons.dev/icons?i=blender,photoshop,illustrator)
+### Programing Languages
+![](https://skillicons.dev/icons?i=cs,cpp,html,css,js,py,typescript)
+### Databases
+![](https://skillicons.dev/icons?i=mysql,mongodb)
+### Frameworks and Libraries
+![](https://skillicons.dev/icons?i=nodejs,express,react,nextjs)
 
-<a href="https://hiran2006.github.io/Web/">Website</a>
+> You can also learn more about me on my [website](https://hiran2006.github.io/Web/)
