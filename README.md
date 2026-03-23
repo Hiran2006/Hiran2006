@@ -13,3 +13,4 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs">
 
 <a href="https://hirans.vercel.app">Website</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=Hiran2006&show_icons=true&theme=radical)
