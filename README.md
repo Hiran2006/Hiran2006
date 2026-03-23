@@ -12,4 +12,4 @@
 <h3>Frame Works and Libraryes<h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs">
 
-<a href="https://hirans.vercel.com">Website</a>
+<a href="https://hirans.vercel.dev">Website</a>
