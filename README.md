@@ -12,4 +12,5 @@ I am a passionate explorer in this rapidly evolving field, always eager to keep 
 ### Frameworks and Libraries
 ![](https://skillicons.dev/icons?i=nodejs,express,react,nextjs)
 
-> You can also learn more about me on my [website](https://hiran2006.github.io/Web/)
+> You can also learn more about me on my [website](https://hirans.vercel.dev)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hiran2006&show_icons=true&theme=radical)
